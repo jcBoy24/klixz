@@ -1,0 +1,93 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c140 79.160451, 2017/05/06-01:08:21        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+    xmlns:tiff="http://ns.adobe.com/tiff/1.0/"
+    xmlns:exif="http://ns.adobe.com/exif/1.0/"
+    xmlns:aux="http://ns.adobe.com/exif/1.0/aux/"
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+    xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:crd="http://ns.adobe.com/camera-raw-defaults/1.0/"
+    xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
+   xmp:Rating="0"
+   xmp:CreatorTool="Ver.1.01"
+   xmp:ModifyDate="2022-12-10T07:26:13.20"
+   xmp:CreateDate="2022-12-10T07:26:13.20"
+   xmp:MetadataDate="2023-02-08T10:14:31+08:00"
+   tiff:Make="NIKON CORPORATION"
+   tiff:Model="NIKON D5300"
+   tiff:Orientation="1"
+   exif:ExifVersion="0231"
+   exif:ExposureTime="1/400"
+   exif:ShutterSpeedValue="8643856/1000000"
+   exif:FNumber="10/1"
+   exif:ApertureValue="6643856/1000000"
+   exif:ExposureProgram="0"
+   exif:SensitivityType="2"
+   exif:ExposureBiasValue="0/6"
+   exif:MaxApertureValue="44/10"
+   exif:MeteringMode="5"
+   exif:LightSource="0"
+   exif:FocalLength="340/10"
+   exif:SensingMethod="2"
+   exif:FileSource="3"
+   exif:SceneType="1"
+   exif:FocalLengthIn35mmFilm="51"
+   exif:CustomRendered="0"
+   exif:ExposureMode="0"
+   exif:WhiteBalance="0"
+   exif:SceneCaptureType="0"
+   exif:GainControl="0"
+   exif:Contrast="0"
+   exif:Saturation="0"
+   exif:Sharpness="0"
+   exif:SubjectDistanceRange="0"
+   exif:DigitalZoomRatio="1/1"
+   exif:FocalPlaneXResolution="83841555/32768"
+   exif:FocalPlaneYResolution="83841555/32768"
+   exif:FocalPlaneResolutionUnit="3"
+   exif:DateTimeOriginal="2022-12-10T07:26:13.20"
+   aux:SerialNumber="9663950"
+   aux:LensInfo="180/10 550/10 35/10 56/10"
+   aux:Lens="18.0-55.0 mm f/3.5-5.6"
+   aux:LensID="160"
+   aux:ImageNumber="25604"
+   aux:ApproximateFocusDistance="531/100"
+   photoshop:DateCreated="2022-12-10T07:26:13.20"
+   photoshop:SidecarForExtension="NEF"
+   photoshop:EmbeddedXMPDigest="01F5B32CAED764DC3DCAD90E2D1E42A4"
+   xmpMM:DocumentID="F700BA4AAE18DB44306346913AC74BE5"
+   xmpMM:OriginalDocumentID="F700BA4AAE18DB44306346913AC74BE5"
+   xmpMM:InstanceID="xmp.iid:528a7e74-a993-a549-9448-4836f6215742"
+   dc:format="image/x-nikon-nef"
+   crd:CameraProfile="Camera STANDARD"
+   crd:LookName=""
+   crs:HasSettings="False"
+   crs:HasCrop="False"
+   crs:AlreadyApplied="False">
+   <exif:ISOSpeedRatings>
+    <rdf:Seq>
+     <rdf:li>200</rdf:li>
+    </rdf:Seq>
+   </exif:ISOSpeedRatings>
+   <exif:Flash
+    exif:Fired="False"
+    exif:Return="0"
+    exif:Mode="2"
+    exif:Function="False"
+    exif:RedEyeMode="False"/>
+   <xmpMM:History>
+    <rdf:Seq>
+     <rdf:li
+      stEvt:action="saved"
+      stEvt:instanceID="xmp.iid:528a7e74-a993-a549-9448-4836f6215742"
+      stEvt:when="2023-02-08T10:14:31+08:00"
+      stEvt:softwareAgent="Adobe Photoshop Camera Raw 13.4 (Windows)"
+      stEvt:changed="/metadata"/>
+    </rdf:Seq>
+   </xmpMM:History>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
